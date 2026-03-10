@@ -31,4 +31,7 @@ int main (){
     BMI = rumus_BMI(bb,tb);
 
     cout << "--- Hasilnya ---" << endl;
+
+    cout << "BMI Anda : " << BMI << endl;
+    cout << "Status   : " << status_BMI(BMI) << endl;
 }
