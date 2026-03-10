@@ -27,4 +27,6 @@ int main (){
 
     cout << "Masukkan tinggi badan (meter)   : ";
     cin >> tb;
+
+    BMI = rumus_BMI(bb,tb);
 }
