@@ -29,4 +29,6 @@ int main (){
     cin >> tb;
 
     BMI = rumus_BMI(bb,tb);
+
+    cout << "--- Hasilnya ---" << endl;
 }
