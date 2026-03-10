@@ -21,4 +21,7 @@ int main (){
     string status;
 
     cout << "--- Selamat Datang Kelas A 2025 ---" << endl;
+
+    cout << "Masukkan berat badan (kilogram) : ";
+    cin >> bb;
 }
