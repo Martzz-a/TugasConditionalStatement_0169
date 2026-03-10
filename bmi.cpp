@@ -19,4 +19,6 @@ string status_BMI (float r){
 int main (){
     float bb, tb, BMI;
     string status;
+
+    cout << "--- Selamat Datang Kelas A 2025 ---" << endl;
 }
